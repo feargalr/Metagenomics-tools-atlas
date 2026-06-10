@@ -88,6 +88,7 @@ Share freely. Use as needed.
 - [Taxonomic Placement & MAG Taxonomy](#taxonomic-placement--mag-taxonomy)
 - [Taxonomic Profiling (Read-Based)](#taxonomic-profiling-read-based)
 - [Temporal & Dynamic Modelling](#temporal--dynamic-modelling)
+- [Transformer-Based Metagenome Representation](#transformer-based-metagenome-representation)
 - [Viral & Virome Analysis](#viral--virome-analysis)
 - [Visualisation](#visualisation)
 - [Workflow & Pipeline Frameworks](#workflow--pipeline-frameworks)
@@ -734,6 +735,12 @@ Share freely. Use as needed.
 | BEEM | [link](https://github.com/csb5/BEEM) | Estimate gLV parameters from cross-sectional or short time-series data. |
 | MDSINE2 | [link](https://github.com/gerberlab/MDSINE2) | Bayesian generalised Lotka–Volterra inference with regularisation and perturbations. |
 | TIME | [link](https://web.rniapps.net/time/) | Web tool for time-resolved microbiome data exploration and trend testing. |
+
+## Transformer-Based Metagenome Representation
+
+| Tool | Link | Description |
+|---|---|---|
+| MetagenBERT | [link](https://github.com/CorvusVaine/MetagenBERT) | Transformer framework producing end-to-end metagenome embeddings directly from raw DNA reads (DNABERT-2/DNABERT-MS) without taxonomic annotation; aggregates read embeddings via FAISS K-Means clustering for disease classification. |
 
 ## Viral & Virome Analysis
 
