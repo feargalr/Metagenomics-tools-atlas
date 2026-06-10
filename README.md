@@ -6,11 +6,11 @@ A community-maintained inventory of tools and resources for **short-read shotgun
 
 ## About
 
-This list was assembled to give researchers a single reference point for the metagenomics software landscape. It covers the full analysis arc: QC, host removal, taxonomic profiling, functional annotation, assembly, binning, MAG quality assessment, strain-level analysis, statistical testing, and more.
+This list was assembled to give researchers a useful reference point for the metagenomics software landscape. It covers the full analysis arc: QC, host removal, taxonomic profiling, functional annotation, assembly, binning, MAG quality assessment, strain-level analysis, statistical testing, and more.
 
-**Scope:** The primary focus is Illumina short-read shotgun metagenomics. Long-read and hybrid tools are included where they complement short-read workflows. Amplicon (16S/ITS) tools are out of scope unless they serve a clear dual-use role.
+**Scope:** The primary focus is short-read shotgun metagenomics. Long-read and hybrid tools are included where they complement short-read workflows. Amplicon (16S/ITS) tools are out of scope unless they serve a clear dual-use role.
 
-**Disclaimer:** This inventory is a mix of human-curated additions and AI-assisted search, with human checking throughout. It is not exhaustive and reflects the state of the field at the time of compilation. If your tool is not here, that is an oversight — not a judgement. Please suggest it via an [Issue](../../issues/new). See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+**Disclaimer:** This inventory is a mix of human-curated additions and AI-assisted search, with human checking throughout. It is not exhaustive and reflects the time of compilation. If your tool is not here, that is an oversight, not a judgement. Please suggest it via an [Issue](../../issues/new). See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 Share freely. Use as needed.
 
